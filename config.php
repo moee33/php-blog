@@ -6,6 +6,6 @@ define('DB_NAME', 'blog_db'); // Database name
 
 define('DB_USER', 'root'); // Change if necessary
 
-define('DB_PASS', 'Kimjongda3.'); // Change if necessary
+define('DB_PASS', ' '); // Change if necessary
 
 ?>
